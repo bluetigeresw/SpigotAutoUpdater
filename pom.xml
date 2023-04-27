@@ -3,7 +3,7 @@
 
 <groupId>com.bluetigeresw</groupId>
 <artifactId>spigotautoupdater</artifactId>
-<version>1.0.0</version>
+<version>1.1.0</version>
 <packaging>jar</packaging>
 <name>SpigotAutoUpdater</name>
 <description>Tool to automatically update spigot plugins</description>
@@ -51,5 +51,10 @@
             <type>jar</type>
             <scope>provided</scope>
 	    </dependency>
+		<dependency>
+    		<groupId>org.json</groupId>
+    		<artifactId>json</artifactId>
+    		<version>20230227</version>
+		</dependency>
     </dependencies>
 </project>

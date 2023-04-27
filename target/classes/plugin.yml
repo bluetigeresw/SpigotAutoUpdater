@@ -1,5 +1,5 @@
 name: SpigotAutoUpdater
-version: 1.0.0
+version: 1.1.0
 author: bluetigeresw
 description: Automatically updates plugins in the plugins folder
 main: com.bluetigeresw.SpigotAutoUpdater.AutoUpdater
